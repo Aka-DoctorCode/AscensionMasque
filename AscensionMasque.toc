@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: Ascension Masque
+## Notes: A custom version of the Zoomed skin with text tweaks.
+## Dependencies: Masque
+## Author: AkaDoctorCode
+## Version: 1.0
+
+AscensionMasque.lua
