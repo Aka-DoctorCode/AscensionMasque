@@ -3,6 +3,8 @@
 ## Notes: A custom version of the Zoomed skin with text tweaks.
 ## Dependencies: Masque
 ## Author: AkaDoctorCode
-## Version: 2
+## Version: 03
+## IconTexture: Interface\AddOns\AscensionNotes\Media\AkaDoctorCode.png
+
 
 AscensionMasque.lua
