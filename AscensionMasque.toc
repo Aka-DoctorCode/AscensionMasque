@@ -1,9 +1,9 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Ascension Masque
 ## Notes: A custom version of the Zoomed skin with text tweaks.
 ## Dependencies: Masque
 ## Author: AkaDoctorCode
-## Version: 04
+## Version: 05
 ## IconTexture: Interface\AddOns\AscensionNotes\Media\AkaDoctorCode.png
 
 
