@@ -1,9 +1,12 @@
-package-as: AscensionBars
+package-as: AscensionMasque
+
+enable-nolib-creation: no
 
 ignore:
     - .git
     - .gitignore
     - .vscode
-    - .pkgmeta
     - __MACOSX
     - .DS_Store
+    - .pkgmeta
+    - .txt
