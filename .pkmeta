@@ -9,4 +9,4 @@ ignore:
     - __MACOSX
     - .DS_Store
     - .pkgmeta
-    - .txt
+    - cambios.txt
