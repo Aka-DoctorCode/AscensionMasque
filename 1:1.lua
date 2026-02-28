@@ -2,7 +2,7 @@
 -- Project: AscensionMasque
 -- Author: Aka-DoctorCode 
 -- File: 1:1.lua
--- Version: 06
+-- Version: @project-version@
 -------------------------------------------------------------------------------
 -- Copyright (c) 2025–2026 Aka-DoctorCode. All Rights Reserved.
 --

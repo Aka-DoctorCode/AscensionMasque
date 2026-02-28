@@ -1,13 +1,13 @@
 -------------------------------------------------------------------------------
 -- Project: AscensionMasque
--- Author: Aka-DoctorCode 
+-- Author: Aka-DoctorCode
 -- File: 16:9.lua
--- Version: 06
+-- Version: @project-version@
 -------------------------------------------------------------------------------
 -- Copyright (c) 2025–2026 Aka-DoctorCode. All Rights Reserved.
 --
 -- This software and its source code are the exclusive property of the author.
--- No part of this file may be copied, modified, redistributed, or used in 
+-- No part of this file may be copied, modified, redistributed, or used in
 -- derivative works without express written permission.
 -------------------------------------------------------------------------------
 local MSQ = LibStub("Masque", true)
@@ -31,18 +31,18 @@ MSQ:AddSkin("Ascension Wide", {
     Version = "1.1",
 
     Backdrop = {
-        Color = {0, 0, 0, 0.5},
+        Color = { 0, 0, 0, 0.5 },
         UseColor = true,
     },
-    
+
     -- Width kept at 38, Height reduced to 21 to achieve 16:9 ratio
     -- TexCoords cropped vertically to prevent the image from looking squashed
     Icon = {
-        TexCoords = {0.07, 0.93, 0.26, 0.74}, 
+        TexCoords = { 0.07, 0.93, 0.26, 0.74 },
         Width = 38,
         Height = 25,
     },
-    
+
     Normal = _Hidden,
 
     Pushed = {
@@ -58,18 +58,18 @@ MSQ:AddSkin("Ascension Wide", {
         Height = 25,
     },
     SlotHighlight = "Checked",
-    
+
     -- Borders scaled down proportionally
     Border = {
         Texture = [[Interface\Buttons\UI-ActionButton-Border]],
         BlendMode = STR_ADD,
         Width = 66,
-        Height = 37, 
+        Height = 37,
         OffsetX = 0.5,
         OffsetY = 0.5,
         Debuff = {
             Texture = TEX_DEBUFF,
-            TexCoords = {0.296875, 0.5703125, 0, 0.515625},
+            TexCoords = { 0.296875, 0.5703125, 0, 0.515625 },
             Width = 40,
             Height = 25,
         },
@@ -86,7 +86,7 @@ MSQ:AddSkin("Ascension Wide", {
     },
     DebuffBorder = {
         Texture = TEX_DEBUFF,
-        TexCoords = {0.296875, 0.5703125, 0, 0.515625},
+        TexCoords = { 0.296875, 0.5703125, 0, 0.515625 },
         Width = 40,
         Height = 25,
     },
@@ -101,7 +101,7 @@ MSQ:AddSkin("Ascension Wide", {
         Width = 38,
         Height = 25,
     },
-    
+
     NewAction = {
         Atlas = "bags-newitem",
         Width = 46,
@@ -118,15 +118,15 @@ MSQ:AddSkin("Ascension Wide", {
         Width = 38,
         Height = 25,
     },
-    
+
     ContextOverlay = {
-        Color = {0, 0, 0, 0.8},
+        Color = { 0, 0, 0, 0.8 },
         Width = 38,
         Height = 25,
         UseColor = true,
     },
     SearchOverlay = "ContextOverlay",
-    
+
     -- Text fields adjusted for the tighter vertical space
     Count = {
         Width = 36,
@@ -184,7 +184,7 @@ MSQ:AddSkin("Ascension Wide", {
         Width = 38,
         Height = 25,
     },
-    
+
     SpellAlert = {
         Width = 40,
         Height = 22,
