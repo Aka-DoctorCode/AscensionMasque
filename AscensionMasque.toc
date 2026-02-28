@@ -5,6 +5,7 @@
 ## Author: AkaDoctorCode
 ## Version: @project-version@
 ## IconTexture: Interface\AddOns\AscensionNotes\Media\AkaDoctorCode.png
+## X-Curse-Project-ID: 1419808
 
 
 1:1.lua
