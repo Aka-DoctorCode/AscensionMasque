@@ -5,7 +5,7 @@
 ## Category: Skins
 ## Version: @project-version@
 ## RequiredDeps: Masque
-## IconTexture: Interface\AddOns\AscensionNotes\Media\AkaDoctorCode.png
+## IconTexture: Interface\AddOns\AscensionMasque\Media\AkaDoctorCode.png
 ## X-Curse-Project-ID: 1419808
 # X-Wago-ID:
 

@@ -1,8 +1,8 @@
-<h1>V08</h1>
+<h1>V07</h1>
 <ul>
-    <li>Packager update to BigWigsMods/packager/li>
+    <li>Packager update to BigWigsMods/packager</li>
     <li>Nil check resolve</li>
-    <li>Undefied Globals resolve</li>
+    <li>Undefined Globals resolve</li>
     <li>TOC update</li>
-    <li>Typos</li>
+    <li>Fixed typos</li>
 </ul>
