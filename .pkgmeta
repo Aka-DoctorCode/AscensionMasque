@@ -1,8 +1,6 @@
 package-as: AscensionMasque
 license-output: LICENSE
 enable-nolib-creation: no
-required-dependencies:
-    - masque
 ignore:
     - __MACOSX
     - pkgmeta.yaml

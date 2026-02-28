@@ -1,2 +1,0 @@
-Add:
-    - Hacer que la forma sea alargada en lugar de cuadrada
