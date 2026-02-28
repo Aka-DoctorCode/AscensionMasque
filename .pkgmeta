@@ -1,10 +1,12 @@
 package-as: AscensionMasque
 license-output: LICENSE
 enable-nolib-creation: no
+required-dependencies:
+    - AscensionQoL
 ignore:
     - __MACOSX
     - pkgmeta.yaml
-    
+
 manual-changelog: 
     filename: CHANGELOG.txt
     markup-type: html
