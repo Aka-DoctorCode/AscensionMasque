@@ -1,4 +1,4 @@
 <h1>@project-version@</h1>
 <ul>
-    <li>Added clean text for Mouse Wheel to profiles Mouse Wheel Up (MWU) and Mouse Wheel Down (MWD)</li>
+    <li>.toc update</li>
 </ul>
