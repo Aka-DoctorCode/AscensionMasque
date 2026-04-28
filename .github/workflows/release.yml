@@ -8,16 +8,19 @@ on:
     tags:
       - '*'
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v5
+      - name: checkoutCode
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
-      - name: Package and Deploy
+      - name: packageAndDeploy
         uses: BigWigsMods/packager@v2
         env:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
