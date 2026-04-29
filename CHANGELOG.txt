@@ -1,6 +1,5 @@
-<h1>@project-version@</h1>
+<h1>V10</h1>
 <ul>
-    <li>Wago initial publication.</li>
+    <li>.toc updated</li>
+    <li>Remove the letter M from the text tweaks to prevent trunkcation of the text when the action bar scale is reduced.</li>
 </ul>
-<br>
-<h3>Positive feedback is always appreciated, it helps me to continue working on this project</h3>

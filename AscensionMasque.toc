@@ -3,11 +3,11 @@
 ## Notes: A custom version of the Zoomed skin with clean text.
 ## Author: AkaDoctorCode
 ## Category: Skins
-## Version: @project-version@
+## Version: V10
 ## RequiredDeps: Masque
 ## IconTexture: Interface\AddOns\AscensionMasque\Media\AkaDoctorCode.png
 ## X-Curse-Project-ID: 1419808
-## X-Wago-ID:56ndDmG9
+# X-Wago-ID:
 
 # Profiles
 1:1.lua
