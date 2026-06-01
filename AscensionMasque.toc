@@ -1,14 +1,21 @@
 ## Interface: 120005
 ## Title: Ascension Masque
-## Notes: A custom version of the Zoomed skin with clean text.
+## Notes: Custom Zoomed skin with clean hotkeys and personalization options.
 ## Author: AkaDoctorCode
 ## Category: Skins
 ## Version: @project-version@
-## RequiredDeps: Masque
-## IconTexture: Interface\AddOns\AscensionMasque\Media\AkaDoctorCode.png
+## RequiredDeps: Masque, AscensionSuit
+## SavedVariables: AscensionMasqueDB
+## IconTexture: Interface\\AddOns\\AscensionMasque\\Media\\AkaDoctorCode.png
 ## X-Curse-Project-ID: 1419808
 ## X-Wago-ID:56ndDmG9
 
-# Profiles
-1:1.lua
-16:9.lua
+# Core must load first — sets up namespace, DB, and apply functions
+Config/Core.lua
+
+# Integration — builds the AscensionSuit-UI panel (or falls back to vanilla Settings API)
+Config\Config.lua
+
+# Skins — push registration into the queue defined in Core.lua
+Profiles/1:1.lua
+Profiles/16:9.lua
