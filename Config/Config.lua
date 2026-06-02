@@ -1,8 +1,7 @@
 -------------------------------------------------------------------------------
 -- Project: AscensionMasque
--- File: Integration/MasquePanel.lua
--- Builds the settings window using AscensionSuit-UI when available.
--- Falls back to the vanilla Settings API if the library is not loaded.
+-- Author: Aka-DoctorCode
+-- File: Config.lua
 -------------------------------------------------------------------------------
 ---@diagnostic disable: undefined-global, undefined-field, inject-field
 

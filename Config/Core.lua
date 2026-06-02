@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 -- Project: AscensionMasque
+-- Author: Aka-DoctorCode
 -- File: Core.lua
--- Shared namespace, config, hotkey hook system, and options panel.
 -------------------------------------------------------------------------------
 ---@diagnostic disable: undefined-global, undefined-field, inject-field
 

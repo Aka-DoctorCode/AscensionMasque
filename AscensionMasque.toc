@@ -3,7 +3,7 @@
 ## Notes: Custom Zoomed skin with clean hotkeys and personalization options.
 ## Author: AkaDoctorCode
 ## Category: Skins
-## Version: @project-version@
+## Version: V13
 ## RequiredDeps: Masque, AscensionSuit
 ## SavedVariables: AscensionMasqueDB
 ## IconTexture: Interface\\AddOns\\AscensionMasque\\Media\\AkaDoctorCode.png

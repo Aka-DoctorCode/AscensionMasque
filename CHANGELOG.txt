@@ -1,4 +1,4 @@
-<h1>@project-version@</h1>
+<h1>V13</h1>
 <ul>
     <li>New AscensionSuit-UI settings menu — ESC > Options > AscensionMasque or use /am command</li>
     <li>Added hotkey and count text position sliders with instant updates</li>
