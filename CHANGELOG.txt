@@ -1,13 +1,6 @@
-<h1>V13</h1>
+<h1>@project-version@</h1>
 <ul>
-    <li>New AscensionSuit-UI settings menu — ESC > Options > AscensionMasque or use /am command</li>
-    <li>Added hotkey and count text position sliders with instant updates</li>
-    <li>Increased max text size limit to 24pt</li>
-    <li>Removed redundant opacity sliders</li>
-    <li>AscensionSuit is now a required dependency</li>
-    <li>Improved settings menu UI layout and size</li>
-    <li>Reorganized internal file structure (Profiles and Config folders)</li>
-    <li>Various bug fixes and performance improvements</li>
+    <li>Update TOC for 12.0.7</li>
 </ul>
 <br>
 <h2>Positive feedback is always appreciated, it helps me to continue working on this project</h2>

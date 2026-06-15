@@ -1,9 +1,9 @@
-## Interface: 120005
+## Interface: 120007
 ## Title: Ascension Masque
 ## Notes: Custom Zoomed skin with clean hotkeys and personalization options.
 ## Author: AkaDoctorCode
 ## Category: Skins
-## Version: V13
+## Version: @project-version@
 ## RequiredDeps: Masque, AscensionSuit
 ## SavedVariables: AscensionMasqueDB
 ## IconTexture: Interface\\AddOns\\AscensionMasque\\Media\\AkaDoctorCode.png
