@@ -6,16 +6,11 @@
 ## Version: @project-version@
 ## RequiredDeps: Masque, AscensionSuit
 ## SavedVariables: AscensionMasqueDB
-## IconTexture: Interface\\AddOns\\AscensionMasque\\Media\\AkaDoctorCode.png
+## IconTexture: Interface\AddOns\AscensionSuit\Media\AkaDoctorCode.png
 ## X-Curse-Project-ID: 1419808
 ## X-Wago-ID:56ndDmG9
 
-# Core must load first — sets up namespace, DB, and apply functions
 Config/Core.lua
-
-# Integration — builds the AscensionSuit-UI panel (or falls back to vanilla Settings API)
-Config\Config.lua
-
-# Skins — push registration into the queue defined in Core.lua
+Config/Config.lua
 Profiles/1:1.lua
 Profiles/16:9.lua
