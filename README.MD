@@ -10,13 +10,6 @@
 *   **Ascension Wide Profile:** A 16:9 widescreen version (38x21) skin for a different aspect ratio.
 *   **Dynamic Text Cleaning:** Automatically cleans and truncates keybind text on your action bars (e.g., changing "Command" to "⌘" or "Middle Mouse" to "B3") to keep the interface minimal and clean.
 
-### **Slash Commands:**
-* **`/am`** - Open the configuration menu. Here you can:
-  * Enable/disable hotkey cleaning and abbreviations.
-  * Customize font sizes for hotkeys and stack counts.
-  * Adjust position offsets (X/Y) for hotkeys and stack counts.
-  * Adjust icon zoom factor (for the 1:1 square skin).
-
 ### **Menu:** go into the Masque add-on settings in game menu
 
 ## Requirements:
@@ -34,13 +27,6 @@
 *   **Perfil Ascension:** Un skin cuadrado ampliado que acorta el texto de las asignaciones de teclas, de forma similar a como lo hace Bartender.
 *   **Perfil Ascension Wide:** Una versión panorámica con formato 16:9 (38x21) para una relación de aspecto diferente.
 *   **Limpieza Dinámica de Texto:** Limpia y trunca automáticamente el texto de las asignaciones de teclas en tus barras de acción (por ejemplo, cambiando "Command" a "⌘" o "Middle Mouse" a "B3") para mantener la interfaz minimalista y limpia.
-
-### **Comandos de Barra:**
-* **`/am`** - Abre el menú de configuración. Aquí puedes:
-  * Activar/desactivar la limpieza y abreviación de atajos de teclado.
-  * Personalizar tamaños de fuente para atajos y contadores de pila.
-  * Ajustar posiciones (offsets X/Y) de atajos y contadores de pila.
-  * Ajustar el zoom del icono (para el skin cuadrado 1:1).
 
 ### Menú: Ve a la configuración del add-on Masque en el menú del juego
 
