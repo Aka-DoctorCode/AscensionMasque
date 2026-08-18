@@ -1,4 +1,4 @@
-## Interface: 120007
+## Interface: 120100
 ## Title: Ascension Masque
 ## Notes: Custom Zoomed skin with clean hotkeys and personalization options.
 ## Author: AkaDoctorCode
